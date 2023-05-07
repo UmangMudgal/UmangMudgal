@@ -1,5 +1,5 @@
 - 👋 Hi, I’m UmangMudgal
-- 👀 I’m interested in Data Science. Good working knowledge of Python, Machine Learning SQL, Snowflake, Microsoft Power BI.
+- 👀 I’m interested in Data Science. Good working knowledge of Python, Machine Learning, SQL, Snowflake, Microsoft Power BI.
 - 🌱 I’m currently learning Research, Application of Feature Extraction @ Indian Institute of Technology(IIT Guwahati)
 - 📫 How to reach me -----------> www.linkedin.com/in/umang-mudgal
 
